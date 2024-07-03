@@ -1,0 +1,10 @@
+# Ignore data folder
+data/
+
+# Ignore .env file
+.env
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
+
